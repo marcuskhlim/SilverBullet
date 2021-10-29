@@ -1,3 +1,3 @@
 # SilverBullet
 Just a test repo
-[anchor text]https://silverbulletpublishing.com
+https://silverbulletpublishing.com
